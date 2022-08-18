@@ -2,4 +2,4 @@
 
 An example repo.
 
-Hello World!
+Contains a hello world python method.
