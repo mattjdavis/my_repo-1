@@ -2,4 +2,4 @@
 
 An example repo.
 
-Contains a hello world python method.
+Contains a hello world python method. Prints twice!
